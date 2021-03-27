@@ -8,5 +8,4 @@ CREATE TABLE `tasks` (
 )
 COLLATE='utf8mb4_general_ci'
 ENGINE=InnoDB
-AUTO_INCREMENT=19
-;
+AUTO_INCREMENT=19;
